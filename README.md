@@ -1,4 +1,4 @@
-# Local File Inclusion in **ABCD Community**
+# Local File Inclusion and XSS in **ABCD Community**
 ## Vulnerable software: https://abcd-community.org/
 
 There are two **Local File Inclusion** vulnerabilities in ABCD software:  
